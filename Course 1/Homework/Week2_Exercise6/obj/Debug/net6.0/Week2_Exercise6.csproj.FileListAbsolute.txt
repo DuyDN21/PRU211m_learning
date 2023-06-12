@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\ky7\pru211m\PRU211m_learning\PRU211m_learning\Course 1\Homework\Week2_Exercise6\bin\Debug\net6.0\Week2_Exercise6.exe
+C:\Users\ACER\Desktop\ky7\pru211m\PRU211m_learning\PRU211m_learning\Course 1\Homework\Week2_Exercise6\bin\Debug\net6.0\Week2_Exercise6.deps.json
+C:\Users\ACER\Desktop\ky7\pru211m\PRU211m_learning\PRU211m_learning\Course 1\Homework\Week2_Exercise6\bin\Debug\net6.0\Week2_Exercise6.runtimeconfig.json
+C:\Users\ACER\Desktop\ky7\pru211m\PRU211m_learning\PRU211m_learning\Course 1\Homework\Week2_Exercise6\bin\Debug\net6.0\Week2_Exercise6.dll
+C:\Users\ACER\Desktop\ky7\pru211m\PRU211m_learning\PRU211m_learning\Course 1\Homework\Week2_Exercise6\bin\Debug\net6.0\Week2_Exercise6.pdb
+C:\Users\ACER\Desktop\ky7\pru211m\PRU211m_learning\PRU211m_learning\Course 1\Homework\Week2_Exercise6\obj\Debug\net6.0\Week2_Exercise6.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\ky7\pru211m\PRU211m_learning\PRU211m_learning\Course 1\Homework\Week2_Exercise6\obj\Debug\net6.0\Week2_Exercise6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\ky7\pru211m\PRU211m_learning\PRU211m_learning\Course 1\Homework\Week2_Exercise6\obj\Debug\net6.0\Week2_Exercise6.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\ky7\pru211m\PRU211m_learning\PRU211m_learning\Course 1\Homework\Week2_Exercise6\obj\Debug\net6.0\Week2_Exercise6.AssemblyInfo.cs
+C:\Users\ACER\Desktop\ky7\pru211m\PRU211m_learning\PRU211m_learning\Course 1\Homework\Week2_Exercise6\obj\Debug\net6.0\Week2_Exercise6.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ky7\pru211m\PRU211m_learning\PRU211m_learning\Course 1\Homework\Week2_Exercise6\obj\Debug\net6.0\Week2_Exercise6.dll
+C:\Users\ACER\Desktop\ky7\pru211m\PRU211m_learning\PRU211m_learning\Course 1\Homework\Week2_Exercise6\obj\Debug\net6.0\refint\Week2_Exercise6.dll
+C:\Users\ACER\Desktop\ky7\pru211m\PRU211m_learning\PRU211m_learning\Course 1\Homework\Week2_Exercise6\obj\Debug\net6.0\Week2_Exercise6.pdb
+C:\Users\ACER\Desktop\ky7\pru211m\PRU211m_learning\PRU211m_learning\Course 1\Homework\Week2_Exercise6\obj\Debug\net6.0\Week2_Exercise6.genruntimeconfig.cache
+C:\Users\ACER\Desktop\ky7\pru211m\PRU211m_learning\PRU211m_learning\Course 1\Homework\Week2_Exercise6\obj\Debug\net6.0\ref\Week2_Exercise6.dll

@@ -1,0 +1,103 @@
+1. Week1
+Getting Started
+-----Course introduction
+-----navigating a coursera course
+-----Meet the instructor
+-----Dr.T's Book(reading)
+-----Course topic index(reading)
+-----Unity import/upgrade error(reading)
+Your First C# code
+-----Lesson introduction
+-----Corresponding Book Chapters(reading)
+-----Setting up your development environment(reading)
+-----Installing Visual studio
+-----Running the course software
+-----Your first console app
+-----Exercise1: Writing your first console appication(reading)
+-----Installing Unity
+-----Your first Unity Script
+-----Exercise2: Writing your first unity script
+2. Week2
+Data Types, Variables and Constants
+-----Lesson Introduction
+-----Corresponding book chapters(reading)
+-----Bits and Bytes
+-----Bits and Bytes(Practice quiz)
+-----Date types, variables and constants
+-----Data types
+-----Integer data types
+-----Exercise3: Declaring and using variables(reading)
+-----Exercise4: Calculating with integers(reading)
+-----Floating point data types
+-----Exercise5: Declaring and using variables and constants(reading)
+-----Reading documentation
+-----Exercise6: Trigonometry with floats(reading)
+-----Exercise7: Calculations and Rounding(reading)
+-----Debugging a console app
+3. Week3
+Classes and Objects
+-----Lesson introduction
+-----Corresponding book chapters(reading)
+-----introduction to classes and objects
+-----Using a class: constructor
+-----Using a class: Properties
+-----Using a class: Methods
+-----Exercise8: Rolling the dice(reading)
+-----Exercise9: Look at the cards(reading)
+-----Classes and Objects in Unity
+4. Week4
+Unity 2D Basics
+-----Lesson introduction
+-----Corresponding book chapters(reading)
+-----The unity editor
+-----Sprites and Game Objects
+	- Sprites simply are graphical assets. A sprite can be single or multiple frames. 
+		Example: A knight swing his sword in a game. => Knight is a sprite.
+	- Game objects are entities that included in our Unity Scenes.
+		Example: Enemy, A tree in the game, ....
+-----Exercise10: Unity Basics(reading)
+-----Unity's component system
+	- We can add or remove component to our Game Objects.
+	- There are some Unity's built in components like RigidBody, RigidBody2D,...
+	- If we click a GameObject, the inspector (to the right) show us all of components of that GameObject
+	- All GameObjects have 2 default components: Transform and SpriteRenderer.
+	- We can active or deactive a component.
+-----Scripts as Components
+	- Beside Unity's built in components, we can custom our own components.
+	- There is a rule: the name of the file and the name of the class must be the same.
+	- We can attach a component to multiple game objects.
+	- When we change the script of the component, we must save it and refresh the script (by right click the script and choose refresh)
+-----Debugging a Unity Script
+	- We have many ways to debug a script, or a behavior or state of a GameObject
+	- we can active, deactive a script, or even remove it.
+	- We can use both Unity editor and Visual Studio to debug(use debugger of visual studio like PRN211, PRN221) and see the output.
+-----Exercise11: Growing Teddies(reading)
+	- We can use transform.localeScale (localScale is a property of Transform component, defines the scaling of an object in three 	dimensions x y z, represents as a Vector3)
+-----2D Physics
+	- At "Project Settings", we can change some default settings like Gravity of Physics and Physics2D.
+-----Excersice12: Move that game object(reading)
+	- When you add force to a GameObject, you must input a Vector2 as a Parameter. 
+	- The input vector2 has 2 uses: Hướng chuyển động và lực tác động vào.
+	- Vd: truyền vào vector(1,0) hoặc (5,0) thì đều cùng hướng, nhưng lực tác động vào thì gấp 5 lần.
+-----Collison Detection and Resolution, part1
+	- Collision dectection is detecting collision between two game objects.
+	- If we add colliders to both of the game objects that participated in the collision, the 2D engine will detect that collision.
+	- Collision resolution is that it's doing smth based on that the collision has been detected.
+-----Collison Detection and Resolution, part2
+	- 1 khái niệm mới: materials -> chất liệu
+	- materials bao gồm 2 properties: friction(ma sát) vs bounciness(độ nảy)
+	- Unity có những built in materials và chúng ta cũng có thể custom riêng 1 material mà chúng ta muốn.
+	- Unity đã làm những phần khó cho chúng ta(về vật lý,...) và chúng ta có thể custom 1 cái Collision resolution riêng của game.
+	- Chỉ cần gọi đúng hàm. VD: 2 vật thể 2D collide thì ta có thể gọi hàm OnCollisionEnter2D để custom Collision resolution.
+-----Prefabs
+	- Prefabs (Prefabricated game object: game object đc định nghĩa sẵn)
+	- Ví dụ như game bắn đạn, viên đạn bắn ra mỗi lần người chơi click Space. 
+	- thì nếu ta có 1 prefabs sẵn, ta chỉ cần khởi tạo prefabs đó là xong.
+	- có thể liên tưởng tới hướng đối tượng.
+-----Exercise13: More Unity Practice(reading)
+	- Nói thêm về sprite renderer.
+	- cùng 1 prefab có thể có nhiều loại sprites khác nhau.
+	- giả sử ta có 2 con teddy bear màu xanh và màu tím, ta muốn chúng cùng là 1 prefab nhưng khác màu
+	- thì ta chỉ cần cho 1 trong 2 con là prefab, còn khi muốn đổi màu thì ta chỉ cần thay đổi chỗ sprite của gameobject ở chỗ Inspector
+Finishing up
+-----Finishing up
